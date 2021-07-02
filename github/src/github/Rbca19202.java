@@ -10,7 +10,10 @@ public class Rbca19202 {
 		 this.rollno=rollno;
 		 this.age=age;
 	 }
-	 
+	 int getAge()
+	 {
+		 return age;
+	 }
 	 
 	 String getrollno()
 	 {
